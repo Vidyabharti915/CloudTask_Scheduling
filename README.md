@@ -7,7 +7,6 @@ This project applies a single-objective Genetic Algorithm (GA) to minimize makes
 - src/scheduler.py – Core GA class and methods
 - run_experiment.py – Runs the GA and plots convergence
 - makespan_convergence.png – Output graph
-- report/Final_Report.docx – Final submission report (optional)
 
 ## ⚙ Requirements
 
