@@ -22,6 +22,8 @@ cloud-task-ga/
 ├── README.md                   # Project overview and instructions
 └── report/
     └── Final_Report.docx       # Full project report (optional)
+
+---
 ## ⚙ Requirements
 
 ```bash
