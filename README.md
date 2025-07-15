@@ -35,19 +35,6 @@ pip install matplotlib
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Vidyabharti915/cloud-task-ga.git
-   cd cloud-task-ga
-   ```
-
-2. Run the experiment:
-   ```bash
-   python run_experiment.py
-   ```
-
 ## 🧠 Key Features
 
 - ✅ Task-to-VM optimization with 1000 tasks and 50 VMs
